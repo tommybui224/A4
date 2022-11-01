@@ -1,0 +1,69 @@
+body {
+    font-family: 'Island Moments', cursive;
+}
+
+body {
+    background: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+html {
+    background: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.navbar {
+    background-color: #1f5606;
+    -webkit-box-shadow: 2px 7px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 7px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 7px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.navbar {
+    background-color: #1f5606;
+}
+
+span {
+    background-color: white;
+}
+
+.shop-name {
+    color: black;
+    font-size: 30px;
+    background-color: #1f5606;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar li a:hover {
+    color: black;
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+.navbar {
+    height: 30px;
+}
+
+.navHeaderCollapse {
+    background-color: #1f5606;
+    -webkit-box-shadow: 20px 41px 5px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 20px 41px 5px -4px rgba(0, 0, 0, 0.75);
+    box-shadow: 20px 41px 5px -4px rgba(0, 0, 0, 0.75);
+}
+.active{
+    background-color: #1a4705;
+    opacity: 80%;
+}
